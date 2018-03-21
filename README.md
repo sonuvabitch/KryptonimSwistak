@@ -1,0 +1,2 @@
+# KryptonimSwistak
+Zadania z paszczaka
